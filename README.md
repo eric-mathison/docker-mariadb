@@ -1,5 +1,7 @@
 # MariaDB Docker Image
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/eric-mathison/docker-mariadb/Build%20Docker%20Image%20and%20Push?style=for-the-badge)
+
 This image is based off the official [MariaDB](https://hub.docker.com/_/mariadb) Docker image with a slight adjustment, the image doesn't run as `root`. This image runs as a non-root user `mysql`.
 
 ## Using this Image
